@@ -1,1 +1,1 @@
-Projekti 3: jQuery-sovellus. Kurssin viimeinen projekti, jossa oli tarkoitus pienimuotoinen sovellus taikka hyödyntää jo tekemää sovellusta jQueryn avulla. Linkki sovellukseen:
+Projekti 3: jQuery-sovellus. Kurssin viimeinen projekti, jossa oli tarkoitus pienimuotoinen sovellus taikka hyödyntää jo tekemää sovellusta jQueryn avulla. Linkki sovellukseen: https://main--jquerytodoapp.netlify.app/
