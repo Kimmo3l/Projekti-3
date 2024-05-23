@@ -3,9 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>To do lista</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
 <body>
-    
+
+<div class="laatikko">
+    <h1><b>To do lista</b></h1>
+    <div class="todoapp">
+        <h2>Tehtävälista</h2>
+        <div class="row">
+            <input type="text" id="input-box" placeholder="Kirjoita tähän">
+            <button id="add-button">Lisää</button>
+        </div>
+        <ul id="list-container">
+        </ul>
+    </div>
+    <button id="toggle-button">Piilota tehtävälista</button>
+</div>
+
+<script src="js/script.js"></script>
 </body>
 </html>
